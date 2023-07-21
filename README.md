@@ -122,9 +122,11 @@ para definir el producto final a nivel de experiencia y de interfaz. Estas
 preguntas sirven como guia:
 
 * Quiénes son los principales usuarios de producto
+Esta produsctos es para usuario standar, que necesiten enviar mensaje o crear contraseñas.
 * Cuáles son los objetivos de estos usuarios en relación con tu producto
+Es objetivo es que los usuarios crean su frase o palabra y le den el numero de desplazamientos hasta el 6 para crear una encritado unico.
 * Cómo crees que el producto que estás creando está resolviendo sus problemas
-
+Este generador de cifrado Cesar permite a usuario sentirse seguro de que su palabra o frase tendra un cifrado unico.
 Con estos requisitos cumplidos puedes agendar un Project Feedback con unx coach.
 
 ## 5. Hito Opcional: Agrega soporte para minúsculas y otros caracteres
